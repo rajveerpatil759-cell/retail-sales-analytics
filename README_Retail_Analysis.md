@@ -1,23 +1,23 @@
-# 🛒 Superstore Sales Analytics — End-to-End Business Intelligence Project
+# Superstore Sales Analytics — End-to-End Business Intelligence Project
 
 > A complete data analytics project covering Python data engineering, SQL database design, and Power BI dashboard development on 4 years of US retail sales data.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **Project Title:** Superstore Sales Analytics
 **Tools:** Python (pandas) · SQL (PostgreSQL) · Power BI · DAX
 
 ---
 
-## 📋 Problem Statement
+##  Problem Statement
 
 Retail businesses operating across multiple product categories, regions, and customer segments often lack visibility into what is actually driving or eroding profitability. Despite growing revenue year over year, a significant portion of orders can be loss-making, and management cannot pinpoint whether the issue lies in pricing strategy, discounting behaviour, geographic underperformance, or customer mix. Without a centralized analytics solution, business decisions are made on incomplete information — making it impossible to prioritize corrective action, optimize discount policies, or allocate resources effectively across regions and product lines.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 superstore-sales-analytics/
@@ -27,6 +27,7 @@ superstore-sales-analytics/
 │   ├── customer_data.csv            ← cleaned dimension table
 │   ├── product_data.csv             ← cleaned dimension table
 │   └── transaction_data.csv         ← cleaned fact table
+│   └── supertore_clean.csv         ← cleaned fact table
 │
 ├── python/
 │   └── sales.ipynb                  ← data cleaning + feature engineering
@@ -50,7 +51,7 @@ superstore-sales-analytics/
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Metric | Value |
 |--------|-------|
@@ -70,7 +71,7 @@ superstore-sales-analytics/
 
 ---
 
-## 🗺️ Entity Relationship Diagram (ERD)
+##  Entity Relationship Diagram (ERD)
 
 ```mermaid
 erDiagram
@@ -124,7 +125,7 @@ erDiagram
 
 ---
 
-## 🐍 Step 1 — Python: Data Cleaning & Feature Engineering
+##  Step 1 — Python: Data Cleaning & Feature Engineering
 
 **File:** `python/sales.ipynb`
 
@@ -179,7 +180,7 @@ Four CSV files exported:
 
 ---
 
-## 🗄️ Step 2 — SQL: Database Design & Business Queries
+##  Step 2 — SQL: Database Design & Business Queries
 
 **File:** `sql/sales.sql`
 
@@ -253,7 +254,7 @@ RETURNS TABLE (
 
 ---
 
-## 📊 Step 3 — Power BI: Interactive Dashboard
+##  Step 3 — Power BI: Interactive Dashboard
 
 **File:** `dashboard/superstore_dashboard.pbix`
 
@@ -421,7 +422,7 @@ MAXX(
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Python
 1. Install dependencies:
@@ -456,9 +457,9 @@ psql -d superstore -f sql/sales.sql
 ## 👤 Author
 
 **Rajveer**
-- 📧 [your email]
+- 📧 [rajveerpatil759@gmail.com]
 - 💼 [your LinkedIn]
-- 🐙 [your GitHub]
+
 
 ---
 
