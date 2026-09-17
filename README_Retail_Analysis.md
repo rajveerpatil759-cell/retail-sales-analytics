@@ -1,4 +1,4 @@
-# Superstore Sales Analytics — End-to-End Business Intelligence Project
+# Retail Sales Analytics — End-to-End Business Intelligence Project
 
 > A complete data analytics project covering Python data engineering, SQL database design, and Power BI dashboard development on 4 years of US retail sales data.
 
@@ -6,7 +6,7 @@
 
 ##  Project Overview
 
-**Project Title:** Superstore Sales Analytics
+**Project Title:** Retail Sales Analytics
 **Tools:** Python (pandas) · SQL (PostgreSQL) · Power BI · DAX
 
 ---
@@ -20,7 +20,7 @@ Retail businesses operating across multiple product categories, regions, and cus
 ##  Repository Structure
 
 ```
-superstore-sales-analytics/
+retail-sales-analytics/
 │
 ├── data/
 │   ├── Sample_Superstore.csv        ← raw source data
