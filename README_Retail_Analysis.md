@@ -312,7 +312,7 @@ MAXX(
 ### Page 1 — Executive Overview
 **Business Question:** Is the company healthy — profitable, growing, and operationally efficient?
 
-![Page 1 - Overview](screenshots/page1_overview.png)
+![Page 1 - Overview](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Overview.png)
 
 **KPIs:** Total Revenue, Total Profit, Total Orders, Profit Margin %, Loss Rate % — all with YoY growth indicators (▲/▼)
 
@@ -327,7 +327,7 @@ MAXX(
 ### Page 2 — Product Profitability
 **Business Question:** Which products make money and which destroy margin?
 
-![Page 2 - Product Profitability](screenshots/page2_product.png)
+![Page 2 - Product Profitability](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Product%20Profitability.png)
 
 **Key Visuals:**
 - Treemap — Furniture commands revenue share but delivers least profit
@@ -340,7 +340,7 @@ MAXX(
 ### Page 3 — Regional & State Performance
 **Business Question:** Where is the business winning and bleeding geographically?
 
-![Page 3 - Regional Performance](screenshots/page3_regional.png)
+![Page 3 - Regional Performance](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Regional%20and%20State%20Performance.png)
 
 **Key Visuals:**
 - Top 10 States — New York and California anchor 41% of profit
@@ -353,7 +353,7 @@ MAXX(
 ### Page 4 — Discount & Margin Analysis
 **Business Question:** Is discounting driving growth or systematically destroying profit?
 
-![Page 4 - Discount Analysis](screenshots/page4_discount.png)
+![Page 4 - Discount Analysis](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Discount%20Margin%20Analysis.png)
 
 **Key Visuals:**
 - Scatter plot — Tables and Bookcases bottom right (high discount, negative margin)
@@ -366,7 +366,7 @@ MAXX(
 ### Page 5 — Customer Intelligence
 **Business Question:** Who are the best customers and which segments are most valuable?
 
-![Page 5 - Customer Intelligence](screenshots/page5_customer.png)
+![Page 5 - Customer Intelligence](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Customer%20Intelligence.png)
 
 **Key Visuals:**
 - Top 10 Customers by Profit bar chart
@@ -379,7 +379,7 @@ MAXX(
 ### Page 6 — Time & Seasonal Trends
 **Business Question:** When does the business peak and is growth sustainable?
 
-![Page 6 - Time Trends](screenshots/page6_trends.png)
+![Page 6 - Time Trends](https://github.com/rajveerpatil759-cell/retail-sales-analytics/blob/main/screenshots/Time%20%26%20Seasonal%20Trends.png)
 
 **Key Visuals:**
 - 4-year monthly trend — consistent growth with Nov/Dec peaks every year
@@ -457,9 +457,8 @@ psql -d superstore -f sql/sales.sql
 ## 👤 Author
 
 **Rajveer**
-- 📧 [rajveerpatil759@gmail.com]
-- 💼 [your LinkedIn]
-
+- [rajveerpatil759@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/rajveerpatil019)
 
 ---
 
